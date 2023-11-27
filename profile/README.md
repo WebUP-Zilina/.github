@@ -14,6 +14,9 @@ Regular meetup on primarily web related development and technology enthusiasts i
 Usually at
 [![GitHub Repo stars](https://img.shields.io/badge/KC%20Hoffman-0a66c2?logo=googlemaps)](https://maps.app.goo.gl/bUTDQDNEV4bsq1987) 🍺 🥨
 
+ Add
+[![GitHub Repo stars](https://img.shields.io/badge/WebuUP%20Calendar-333637?logo=googlecalendar)](https://calendar.google.com/calendar/u/0?cid=d2VidXAubWVldHVwQGdtYWlsLmNvbQ) to keep track of events 📅
+
 ### Social
 [![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-Discord-5865f2?logo=discord)](https://discord.gg/s2jCxXEEht)
 [![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-Facebook-0866ff?logo=Facebook)](https://www.facebook.com/webup.zilina)
